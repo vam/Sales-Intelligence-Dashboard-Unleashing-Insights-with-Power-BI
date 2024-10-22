@@ -5,8 +5,8 @@ The Sales Intelligence Dashboard is an interactive Power BI-based solution desig
 
 ## Features
 
--Dynamic Sales Forecasting: Interactive line and bar charts showing trends and forecasts for sales over time.
--KPI Dashboard: Key performance indicators such as total sales, profit, quantity sold, and average shipping time.
+- Dynamic Sales Forecasting: Interactive line and bar charts showing trends and forecasts for sales over time.
+- KPI Dashboard: Key performance indicators such as total sales, profit, quantity sold, and average shipping time.
 -Segmented Sales Insights: Analyze sales by customer segments, including Home Office, Corporate, and Consumer.
 -State-Wise Breakdown: A geographic map and comparison of sales across various states for regional insights.
 -Product Category Analysis: Provides metrics for Office Supplies, Technology, Furniture, and their respective sub-categories.
