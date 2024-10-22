@@ -24,3 +24,8 @@ The Sales Intelligence Dashboard is an interactive Power BI-based solution desig
 - Power BI: The primary tool used for creating interactive dashboards and visualizations.
 - Data Source: Simulated or real-time sales data from various departments.
 - Microsoft Bing Maps: Integrated for visualizing geographic distribution of sales.
+
+## How to Use
+- Open the Dashboard: Open the .pbix file in Power BI Desktop or view it on Power BI Service.
+- Interact with the Filters: Use the dynamic filters to adjust the date range, customer segments, regions, and product categories.
+- Analyze the Trends: Explore the various charts and graphs to identify key trends in sales and performance.
